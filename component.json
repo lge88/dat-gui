@@ -1,0 +1,7 @@
+{
+  "name": "dat-gui",
+  "scripts": [
+    "build/dat-gui.js"
+  ],
+  "main": "dat-gui.js"
+}
