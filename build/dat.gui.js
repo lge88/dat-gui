@@ -3659,6 +3659,6 @@ dat.utils.common),
 dat.dom.dom,
 dat.utils.common);
 
-if ( module ) {
+if ( typeof module !== 'undefined' ) {
   module.exports = dat;
 }
